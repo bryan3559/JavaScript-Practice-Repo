@@ -15,3 +15,19 @@ person.name;
 person.dob;
 
 console.log(person);
+
+let friends = ['Tiffany', 'Bro', 'Jason'];
+
+console.log (friends);
+
+let friend = {
+    Name: 'Tiffany',
+    Age: 38,
+    Address: {
+        address1: '123 Main Street',
+        city: 'Birmingham',
+        state: 'Alabama'
+    }
+};
+
+console.log (friend.Address);
