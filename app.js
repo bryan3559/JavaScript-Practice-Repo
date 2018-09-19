@@ -31,3 +31,10 @@ let friend = {
 };
 
 console.log (friend.Address);
+
+let val1 = 2018
+let val2 = 2007
+
+let a = val1 - val2;
+
+console.log (a);

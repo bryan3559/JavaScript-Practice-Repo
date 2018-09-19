@@ -5,6 +5,6 @@ This file was created to practice JavaScript concepts. The app.js file is consid
 
 * JavaScript Variables
 * JavaScript Data Types 
-* JavaScript Objects & Arrays - Practice Session Stops Here
-* JavaScript Operators
+* JavaScript Objects & Arrays 
+* JavaScript Operators - Practice Session Stops Here
 * JavaScript Conditional Statements
