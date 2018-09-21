@@ -38,3 +38,14 @@ let val2 = 2007
 let a = val1 - val2;
 
 console.log (a);
+
+let val = 25;
+
+if(val == 26 || val < 25) {
+    console.log('True');
+} else {
+    console.log('False');
+}
+
+
+console.log('Ended Program');
