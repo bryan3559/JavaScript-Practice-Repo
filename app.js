@@ -49,3 +49,14 @@ if(val == 26 || val < 25) {
 
 
 console.log('Ended Program');
+
+let people = ['Joi', 'Jada', 'Tiffany', 'Bro', 'Corey', 'Jason']
+
+for (let i = 0; i <= people.length; i++) {
+    console.log(i);
+
+    if (people [i] == 'Bro') {
+        console.log ('Found Him!');
+        break;
+    }
+}
