@@ -8,4 +8,5 @@ This file was created to practice JavaScript concepts. The app.js file is consid
 * JavaScript Objects & Arrays 
 * JavaScript Operators 
 * JavaScript Conditional Statements 
-* JavaScript Loops - Practice Stops Here
+* JavaScript Loops 
+* JavaScript Functions

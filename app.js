@@ -60,3 +60,22 @@ for (let i = 0; i <= people.length; i++) {
         break;
     }
 }
+
+
+console.log (add(706,89));
+
+console.log (subtract(706,89));
+
+let sum = add(25 , 50);
+let difference = subtract(25 , 35);
+
+console.log(sum);
+console.log(difference);
+
+function add(num1, num2) {
+    return num1 + num2;
+}
+
+function subtract(num1, num2) {
+    return num1 - num2;
+}
